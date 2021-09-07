@@ -1,4 +1,4 @@
-<h1> :computer: Conexão com bancos de dados usando SpringBoot:</h1>
+<h1> :computer: Conexão com bancos de dados usando SpringBoot</h1>
   
 #### 🟢 H2 (usado para testes)
 ```sql
